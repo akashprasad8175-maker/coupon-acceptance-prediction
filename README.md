@@ -1,3 +1,4 @@
+Built during the campus immersion of the Post Graduate Program in Data Science, ML and GenAI at IIT Roorkee.
 Predicting whether a customer will accept a coupon: LightGBM, 5-fold CV.
 the data(10,147 rows)
 results (77% accuracy, 0.84 ROC-AUC vs 57% baseline)
