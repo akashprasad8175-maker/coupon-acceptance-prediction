@@ -1,0 +1,6 @@
+pandas
+numpy
+maplotlib
+seaborn
+scikit-learn
+lightgbm
