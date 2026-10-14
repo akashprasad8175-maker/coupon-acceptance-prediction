@@ -34,3 +34,8 @@ Predict whether a customer accepts a recommended coupon (Y = 1 or 0) from demogr
 
 ## Limitations
 Early stopping used the validation fold, so the cross-validation score may be slightly optimistic. A separate holdout set would be a stricter test.
+
+## How to run
+pip install -r requirements.txt
+jupyter notebook coupon_acceptance_lightgbm.ipynb
+The data files (train.csv, test.csv, sample_submission.csv) are included in this repo, so the notebook runs as is.
